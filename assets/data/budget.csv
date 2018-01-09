@@ -1,0 +1,61 @@
+year,department,sub_department,amt
+2004,Finance,taxes collected,13995851846
+2004,Finance,total revenue,15668810287
+2004,Finance,,16068266666
+2004,Education,,8583204949
+2004,Education,Early education,263220959
+2004,Education,Board of Education,5916981482
+2004,Education,Regents,1630030776
+2004,Education,Student finance/aid,470454459
+2004,Education,Technical/Adult Ed,300344227
+2004,Education,Teacher retirement,2173046
+2004,Law Enforcement,,1396057811
+2004,Law Enforcement,GBI,59509466
+2004,Law Enforcement,Public Safety,89535140
+2004,Law Enforcement,Juvenile Justice,270635317
+2004,Law Enforcement,Corrections,921868385
+2004,Law Enforcement,Pardons/paroles,46625405
+2004,Law Enforcement,Dept of Defense,7884098
+2004,Law Enforcement,Community Supervision,
+2004,Health care,,3465944963
+2004,Health care,Community Health,2011823963
+2004,Health care,Human resources,1432310890
+2004,Health care,Behavioral Health,
+2004,Health care,Public health,
+2004,Health care,Veterans services,21810110
+2004,Transportation,,674016210
+2004,General Assembly,,30273594
+2004,DNR,,91995918
+2004,Economic development,,36436914
+2004,Reserve fund,,51577479
+2004,Debt sinking fund,,675479942
+2005,Finance,taxes collected,15167443846
+2005,Finance,total revenue,16789925631
+2005,Finance,,16323092337
+2005,Education,,8795264691
+2005,Education,Early education,279423076
+2005,Education,Board of Education,6056487200
+2005,Education,Regents,1676317469
+2005,Education,Student finance/aid,484045530
+2005,Education,Technical/Adult Ed,297052062
+2005,Education,Teacher retirement,1939354
+2005,Law Enforcement,,1397357312
+2005,Law Enforcement,GBI,60595881
+2005,Law Enforcement,Public Safety,86147406
+2005,Law Enforcement,Juvenile Justice,285361192
+2005,Law Enforcement,Corrections,913077531
+2005,Law Enforcement,Pardons/paroles,44217112
+2005,Law Enforcement,Dept of Defense,7958190
+2005,Law Enforcement,Community Supervision,
+2005,Health care,,3641463891
+2005,Health care,Community Health,2242044171
+2005,Health care,Human resources,1378502766
+2005,Health care,Behavioral Health,
+2005,Health care,Public health,
+2005,Health care,Veterans services,20916954
+2005,Transportation,,712858292
+2005,General Assembly,,29296512
+2005,DNR,,91362580
+2005,Economic development,,25402217
+2005,Reserve fund,,256664658
+2005,Debt sinking fund,,643887134

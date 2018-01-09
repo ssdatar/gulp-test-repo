@@ -1,0 +1,36 @@
+@import 'foundation';
+@include foundation-global-styles;
+@include foundation-grid;
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#ssd-treemap {
+  height: 1000px;
+  position: relative;
+}
+
+.node {
+  box-sizing: border-box;
+  line-height: 1em;
+  overflow: hidden;
+  position: absolute;
+  white-space: pre;
+  background: #ddd;
+}
+
+.node-label,
+.node-value {
+  margin: 4px;
+}
+
+.node-value {
+  margin-top: -2px;
+}
+
+.node-value {
+  font-weight: bold;
+}
